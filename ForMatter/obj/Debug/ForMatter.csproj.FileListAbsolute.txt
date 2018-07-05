@@ -1,0 +1,9 @@
+c:\users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\bin\Debug\ForMatter.exe.config
+c:\users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\bin\Debug\ForMatter.exe
+c:\users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\bin\Debug\ForMatter.pdb
+c:\users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\obj\Debug\ForMatter.Properties.Resources.resources
+c:\users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\obj\Debug\ForMatter.csproj.GenerateResource.Cache
+c:\users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\obj\Debug\ForMatter.exe
+c:\users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\obj\Debug\ForMatter.pdb
+C:\Users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\obj\Debug\ForMatter.csprojResolveAssemblyReference.cache
+C:\Users\ho\documents\visual studio 2015\Projects\ForMatter\ForMatter\obj\Debug\ForMatter.formatter.resources
